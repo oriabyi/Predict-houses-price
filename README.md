@@ -1,0 +1,1 @@
+In this project with 79 explanatory variables describing (almost) every aspect of residential homes need to predict the final price of each home.
